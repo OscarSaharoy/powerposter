@@ -1,5 +1,405 @@
 [
     {
+        "quote": "True terror is to wake up one morning and discover that your high school class is running the country.",
+        "author": "Kurt Vonnegut"
+    },
+    {
+        "quote": "Always forgive your enemies; nothing annoys them so much.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Sometimes the road less traveled is less traveled for a reason.",
+        "author": "Jerry Seinfeld"
+    },
+    {
+        "quote": "Never go to bed mad. Stay up and fight.",
+        "author": "Phyllis Diller"
+    },
+    {
+        "quote": "If you can’t be kind, at least be vague.",
+        "author": "Judith Martin"
+    },
+    {
+        "quote": "Misers are no fun to live with, but they make great ancestors.",
+        "author": "Tom Snyder"
+    },
+    {
+        "quote": "The statistics on sanity are that one out of every four Americans is suffering from some form of mental illness. Think of your three best friends. If they’re okay, then it’s you.",
+        "author": "Rita Mae Brown"
+    },
+    {
+        "quote": "If you want to know what God thinks of money, just look at the people he gave it to.",
+        "author": "Dorothy Parker"
+    },
+    {
+        "quote": "Doing nothing is very hard to do. You never know when you’re finished.",
+        "author": "Leslie Nielsen"
+    },
+    {
+        "quote": "When in doubt, look intelligent.",
+        "author": "Garrison Keillor"
+    },
+    {
+        "quote": "In America, there are two classes of travel - first class and with children.",
+        "author": "Robert Benchley"
+    },
+    {
+        "quote": "There is no such thing as fun for the whole family.",
+        "author": "Jerry Seinfeld"
+    },
+    {
+        "quote": "Just be good and kind to your children. Not only are they the future of the world, they’re the ones who can sign you into a home.",
+        "author": "Dennis Miller"
+    },
+    {
+        "quote": "A perfect parent is a person with excellent child-rearing theories and no actual children.",
+        "author": "Dave Barry"
+    },
+    {
+        "quote": "Instead of getting married again, I’m going to find a woman I don’t like and give her a house.",
+        "author": "Rod Stewart"
+    },
+    {
+        "quote": "Behind every great man is a woman rolling her eyes.",
+        "author": "Jim Carrey"
+    },
+    {
+        "quote": "If you can give your child only one gift, let it be enthusiasm.",
+        "author": "Bruce Barton"
+    },
+    {
+        "quote": "If you are not yelling at your kids, you are not spending enough time with them.",
+        "author": "Reese Witherspoon"
+    },
+    {
+        "quote": "Nobody can do for little children what grandparents do. Grandparents sort of sprinkle stardust over the lives of little children.",
+        "author": "Alex Haley"
+    },
+    {
+        "quote": "The simplest toy, one which even the youngest child can operate, is called a grandparent.",
+        "author": "Sam Levenson"
+    },
+    {
+        "quote": "The world is extremely interesting to a joyful soul.",
+        "author": "Alexandra Stoddard"
+    },
+    {
+        "quote": "Not in doing what you like but in liking what you do is the secret of happiness.",
+        "author": "J.M. Barrie"
+    },
+    {
+        "quote": "To be without some of the things you want is an indispensable part of happiness.",
+        "author": "Bertrand Russell"
+    },
+    {
+        "quote": "The older you get the more you realize that kindness is synonymous with happiness.",
+        "author": "Lionel Barrymore"
+    },
+    {
+        "quote": "Happiness makes up in height for what it lacks in length.",
+        "author": "Robert Frost"
+    },
+    {
+        "quote": "Anybody who tells you money can’t buy happiness never had any.",
+        "author": "Samuel L. Jackson"
+    },
+    {
+        "quote": "“Happiness is good health and a bad memory.",
+        "author": "Ingrid Bergman"
+    },
+    {
+        "quote": "Happiness is having a large, caring, close-knit family in another city.",
+        "author": "George Burns"
+    },
+    {
+        "quote": "Don’t wait around for other people to be happy for you. Any happiness you get you’ve got to make yourself.",
+        "author": "Alice Walker"
+    },
+    {
+        "quote": "Happiness often sneaks in through a door you didn’t know you left open.",
+        "author": "John Barrymore"
+    },
+    {
+        "quote": "Every cynic is a sentimentalist under the skin.",
+        "author": "Louis L’Amour"
+    },
+    {
+        "quote": "Nobody has ever measured, even the poets, how much a heart can hold.",
+        "author": "Zelda Fitzgerald"
+    },
+    {
+        "quote": "The only thing worse than being talked about is not being talked about.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Man is the only animal that laughs and weeps; for he is the only animal that is struck with the difference between what things are and what they ought to be.",
+        "author": "William Hazlitt"
+    },
+    {
+        "quote": "Man is the only animal that blushes - or needs to.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "No man who is in a hurry is quite civilized.",
+        "author": "Will Durant"
+    },
+    {
+        "quote": "I would rather sit on a pumpkin and have it all to myself, than to be crowded on a velvet cushion.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "quote": "The best index to a person’s character is (a) how he treats people who can’t do him any good, and (b) how he treats people who can’t fight back.",
+        "author": "Abigail Van Buren"
+    },
+    {
+        "quote": "I don’t know why people are so keen to put the details of their private life in public; they forget that invisibility is a superpower.",
+        "author": "Banksy"
+    },
+    {
+        "quote": "Morality is only moral when it is voluntary.",
+        "author": "Lincoln Steffens"
+    },
+    {
+        "quote": "A man always has two reasons for doing anything - a good reason and the real reason.",
+        "author": "J. Pierpont Morgan"
+    },
+    {
+        "quote": "The holy passion of friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "One of the lessons of history is that nothing is often a good thing to do and always a clever thing to say.",
+        "author": "Will Durant"
+    },
+    {
+        "quote": "It’s not necessary to take a person’s advice to make him feel good - all you have to do is ask it.",
+        "author": "Richard Armour"
+    },
+    {
+        "quote": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "There is only one certainty in life and that is that nothing is certain.",
+        "author": "G.K. Chesterton"
+    },
+    {
+        "quote": "Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can’t build on it; it’s only good for wallowing.",
+        "author": "Katherine Mansfield"
+    },
+    {
+        "quote": "What do we live for if it is not to make life less difficult for each other.",
+        "author": "George Eliot"
+    },
+    {
+        "quote": "It is a funny thing about life; if you refuse to accept anything but the best, you very often get it.",
+        "author": "W. Somerset Maugham"
+    },
+    {
+        "quote": "There is more to life than increasing its speed.",
+        "author": "Mohandas K. Gandhi"
+    },
+    {
+        "quote": "You cannot do a kindness too soon, for you never know how soon it will be too late.",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "Life does not have to be perfect to be wonderful.",
+        "author": "Annette Funicello"
+    },
+    {
+        "quote": "The beautiful thing about learning is nobody can take it away from you.",
+        "author": "B.B. King"
+    },
+    {
+        "quote": "My father gave me the best advice of my life. He said, ‘Whatever you do, don’t wake up at 65 years old and think about what you should have done with your life.’",
+        "author": "George Clooney"
+    },
+    {
+        "quote": "You only have to do a very few things right in your life - so long as you don’t do too many things wrong.",
+        "author": "Warren Buffet"
+    },
+    {
+        "quote": "Not everything that is faced can be changed. But nothing can be changed until it is faced.",
+        "author": "James Baldwin"
+    },
+    {
+        "quote": "They always say time changes things, but you actually have to change them yourself.",
+        "author": "Andy Warhol"
+    },
+    {
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter F. Drucker"
+    },
+    {
+        "quote": "In real life, I assure you, there is no such thing as algebra.",
+        "author": "Fran Lebowitz"
+    },
+    {
+        "quote": "Never keep up with the Joneses. Drag them down to your level. It’s cheaper.",
+        "author": "Quentin Crisp"
+    },
+    {
+        "quote": "Nobody gets to live life backward. Look ahead - that’s where your future lies.",
+        "author": "Ann Landers"
+    },
+    {
+        "quote": "Experience is not what happens to you; it is what you do with what happens to you.",
+        "author": "Aldous Huxley"
+    },
+    {
+        "quote": "Thinking is the hardest work there is, which is the probable reason why so few engage in it.",
+        "author": "Henry Ford"
+    },
+    {
+        "quote": "Where all think alike, no one thinks very much.",
+        "author": "Walter Lippmann"
+    },
+    {
+        "quote": "Don’t go around saying the world owes you a living. The world owes you nothing. It was here first.",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "Amateurs wait for inspiration. The rest of us just get up and go to work.",
+        "author": "Chuck Close"
+    },
+    {
+        "quote": "I am only an average man, but, by George, I work harder at it than the average man.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "quote": "If you have a job without any aggravations, you don’t have a job.",
+        "author": "Malcolm Forbes"
+    },
+    {
+        "quote": "Anyone can do any amount of work, provided it isn’t the work he is supposed to be doing at that moment.",
+        "author": "Robert Benchley"
+    },
+    {
+        "quote": "There are no hopeless situations; there are only people who have grown hopeless about them.",
+        "author": "Clare Boothe Luce"
+    },
+    {
+        "quote": "Pay no attention to what the critics say. A statue has never been erected in honor of a critic.",
+        "author": "Jean Sibelius"
+    },
+    {
+        "quote": "A problem is a chance for you to do your best.",
+        "author": "Duke Ellington"
+    },
+    {
+        "quote": "If your ship doesn’t come in, swim out to it!",
+        "author": "Jonathan Winters"
+    },
+    {
+        "quote": "Time you enjoy wasting was not wasted.",
+        "author": "John Lennon"
+    },
+    {
+        "quote": "Worry never robs tomorrow of its sorrow; it only saps today of its strength.",
+        "author": "A.J. Cronin"
+    },
+    {
+        "quote": "If you are too careful, you are so occupied in being careful that you are sure to stumble over something.",
+        "author": "Gertrude Stein"
+    },
+    {
+        "quote": "Mistakes are a fact of life. It is the response to the error that counts.",
+        "author": "Nikki Giovanni"
+    },
+    {
+        "quote": "Don’t be afraid to be afraid.",
+        "author": "Maurice Chevalier"
+    },
+    {
+        "quote": "Imagination is more important than knowledge.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "The time is always right to do what is right.",
+        "author": "Martin Luther King, Jr "
+    },
+    {
+        "quote": "You can’t turn back the clock. But you can wind it up again.",
+        "author": "Bonnie Prudden"
+    },
+    {
+        "quote": "Success is falling nine times and getting up ten.",
+        "author": "Jon Bon Jovi"
+    },
+    {
+        "quote": "You miss 100 percent of the shots you never take.",
+        "author": "Wayne Gretzky"
+    },
+    {
+        "quote": "You’ve got to try your luck at least once a day because you could be going around lucky all day and not even know it.",
+        "author": "Jimmy Dean"
+    },
+    {
+        "quote": "Be like a duck. Calm on the surface but always paddling like the dickens underneath.",
+        "author": "Michael Caine"
+    },
+    {
+        "quote": "The nice thing about being a celebrity is that when you bore people, they think it’s their fault.",
+        "author": "Henry Kissinger"
+    },
+    {
+        "quote": "Everybody has to be somebody to somebody to be anybody.",
+        "author": "Malcolm S. Forbes"
+    },
+    {
+        "quote": "People ask me sometimes… When will there be enough women on the court? And my answer is, When there are nine.",
+        "author": "Ruth Bader Ginsberg"
+    },
+    {
+        "quote": "Anything’s possible if you’ve got have enough nerve.",
+        "author": "J.K. Rowling"
+    },
+    {
+        "quote": "Thankfully, perseverance is a great substitute for talent.",
+        "author": "Steve Martin"
+    },
+    {
+        "quote": "If at first you don’t succeed, try, try again. Then quit. There’s no use being a damn fool about it.",
+        "author": "W.C. Fields"
+    },
+    {
+        "quote": "You can have it all. You just can’t have it all at once.",
+        "author": "Oprah Winfrey"
+    },
+    {
+        "quote": "Play is often talked about as if it were a relief from serious learning. But for children play is serious learning. Play is really the work of childhood.",
+        "author": "Fred Rogers"
+    },
+    {
+        "quote": "Age is a high price to pay for maturity.",
+        "author": "Tom Stoppard"
+    },
+    {
+        "quote": "By the time you’re 80 years old you’ve learned everything. You only have to remember it.",
+        "author": "George Burns"
+    },
+    {
+        "quote": "After 30, a body has a mind of its own.",
+        "author": "Bette Midler"
+    },
+    {
+        "quote": "I wish I could tell you it gets better, but it doesn’t get better. You get better.",
+        "author": "Joan Rivers"
+    },
+    {
+        "quote": "One of the best parts of growing older? You can flirt all you like since you’ve become harmless. ",
+        "author": "Liz Smith"
+    },
+    {
+        "quote": "Each generation imagines itself to be more intelligent than the one that went before it and wiser than the one that comes after it.",
+        "author": "George Orwell"
+    },
+    {
+        "quote": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+        "author": "Lucille Ball"
+    },
+    {
         "quote": "The essence of strategy is choosing what not to do.",
         "author": "Michael Porter"
     },
@@ -14,10 +414,6 @@
     {
         "quote": "Death is something inevitable. When a man has done what he considers to be his duty to his people and his country, he can rest in peace. I believe I have made that effort and that is, therefore, why I will sleep for the eternity.",
         "author": "Nelson Mandela"
-    },
-    {
-        "quote": "You have to love a nation that celebrates its independence every July 4, not with a parade of guns, tanks, and soldiers who file by the White House in a show of strength and muscle, but with family picnics where kids throw Frisbees, the potato salad gets iffy, and the flies die from happiness. You may think you have overeaten, but it is patriotism.",
-        "author": "Erma Bombeck"
     },
     {
         "quote": "Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.",
