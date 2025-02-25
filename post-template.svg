@@ -14,7 +14,7 @@
 
 <g
     id="g17-9"
-    transform="matrix(6,0,0,6,16,25)">
+    transform="matrix(6,0,0,6,15.5,25)">
     <path
         style="fill: #ffffff; fill-opacity: 1;"
         d="m 0,0 c 0,0 -0.527227,-0.21332 -0.530696,-0.600069 -0.0019,-0.303764 0.200677,-0.414409 0.378637,-0.413798 0.177959,6.11e-4 0.357637,0.110035 0.355297,0.335635 -0.0023,0.2256 -0.213867,0.322334 -0.326493,0.325524 -0.112625,0.0032 -0.143974,0.159119 0.166612,0.295476 z"
@@ -31,30 +31,25 @@
 
 <text
     xml:space="preserve"
-    style="font-size: 4px; font-family: Cardo; text-align: start; letter-spacing: 0px; writing-mode: lr-tb; direction: ltr; text-anchor: start; white-space: pre; display: inline; fill: #ffffff;"
-    x="9"
-    y="30"
-    id="text2">
-    {{ text }}
-</text>
+    style="font-size: 4px; font-size: {{ font_size }}; font-family: Cardo; text-align: start; letter-spacing: 0px; writing-mode: lr-tb; direction: ltr; text-anchor: start; white-space: pre; display: inline; fill: #ffffff;"
+    x="12"
+    y="40"
+    id="text2">{{ text }}</text>
 
 
 <text
     xml:space="preserve"
     style="font-size: 2.8px; font-family: Cardo; text-align: start; letter-spacing: 0px; writing-mode: lr-tb; direction: ltr; text-anchor: start; white-space: pre; display: inline; fill: #ffffff;"
-    x="12.9"
+    x="15.9"
     y="88"
-    id="text3">
-    3.quotes.everyday
-</text>
+    id="text3">3.quotes.everyday</text>
 
 <text
     xml:space="preserve"
     style="font-size: 2.8px; font-family: Futura; text-align: start; letter-spacing: 0px; writing-mode: lr-tb; direction: ltr; text-anchor: start; white-space: pre; display: inline; fill: #ffffff;"
-    x="9"
+    x="12"
     y="88.2"
-    id="text4">
-    @
-</text>
+    id="text4">@</text>
 
 </svg>
+

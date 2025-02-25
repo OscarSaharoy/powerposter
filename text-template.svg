@@ -3,5 +3,11 @@
   xmlns="http://www.w3.org/2000/svg"
   xmlns:svg="http://www.w3.org/2000/svg"
 >
-  <text id="test-text">{{ text }}</text>
+  <text id="test-text"
+    xml:space="preserve"
+    style="font-size: 4px; font-family: Cardo; text-align: start; letter-spacing: 0px; writing-mode: lr-tb; direction: ltr; text-anchor: start; white-space: pre; display: inline; fill: #ffffff;"
+    x="0"
+    y="0"
+    id="text1"
+  >{{ text }}</text>
 </svg>
